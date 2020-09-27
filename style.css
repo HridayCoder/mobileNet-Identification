@@ -1,0 +1,45 @@
+body
+{
+background-color: coral;font-family: monospace;
+}
+.header_div
+{
+background-color: white;color: darkgreen;font-weight: bold;font-size: 30px;
+}
+.header_div img
+{
+width: 100px;
+}
+.main_div
+{
+background-color: turquoise;padding: 10px;margin-top: 50px;border: 4px solid darkblue;
+}
+.main_div label
+{
+background-color: yellow;color: teal;font-weight: bold;box-shadow: 10px 10px 20px black;margin-bottom: 0px;
+padding: 10px;width: 300px;font-size: 30px;
+}
+#camera,#result
+{
+border: 3px solid crimson;width: 320px;height: 300px;box-shadow: 10px 10px 20px black;
+}
+.footer_div
+{
+margin-bottom: 50px;
+}
+.footer_div h4
+{
+background-color: pink;border-radius: 10px;padding: 5px;
+}
+.footer_div img
+{
+width: 70px;
+}
+.copy_right_footer
+{
+position: fixed;bottom: 0;color: black;font-weight: bold;width: 100%;text-align: center;background-color:cyan;
+}
+.main_div button
+{
+font-size: 30px;font-weight: bold;color: darkslategrey;border: 2px solid;box-shadow: 10px 10px 20px black;
+}
